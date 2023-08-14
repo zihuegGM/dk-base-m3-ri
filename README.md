@@ -2,7 +2,7 @@
 
 ## Introducción
 
-El equipo de sistemas de Contoso, Inc. se encuentra en proceso de modernización de sus sistemas. Por ello, han decidido integrar las tecnologías de contenedores y orquestación para como soporte a la mejor continua de sus procesos de desarrollo y liberación de aplicaciones.
+El equipo de sistemas de Contoso, Inc. se encuentra en proceso de modernización de sus sistemas. Por ello, han decidido integrar las tecnologías de contenedores y orquestación como soporte a la mejor continua de sus procesos de desarrollo y liberación de aplicaciones.
 
 Contoso, Inc. está desplegando clusters de Kubernetes con el fin de validar aspectos relacionados con la administración y operación de esta tecnología.
 
